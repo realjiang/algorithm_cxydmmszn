@@ -1,4 +1,4 @@
-package _1stack_queue._3_reverseStack;
+package _1stack_queue._3_reverse_stack;
 
 import java.util.Stack;
 

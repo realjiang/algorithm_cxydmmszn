@@ -1,4 +1,4 @@
-package _1stack_queue._2_twostackqueue;
+package _1stack_queue._2_two_stack_queue;
 
 import java.util.Stack;
 
