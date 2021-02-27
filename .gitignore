@@ -43,6 +43,7 @@ target/
 *.iml
 *.ipr
 logs
+.idea/**
 
 ### NetBeans ###
 /nbproject/private/
